@@ -26,4 +26,4 @@ This project provides a comprehensive analysis of customer behavior to uncover k
 You can copy and paste this directly into your GitHub README file. Would you like to add anything else to the project documentation?
 4. Screenshots
 Shoe what the dashboard looks like.
-![Dashboard Screenshot](https://github.com/SherivJaiswal/Customer-Behavior-Analysis/raw/main/Screenshot%202026-10-08%20083218.png).
+![Dashboard Screenshot](https://github.com/SherivJaswal/Customer-Behavior-Analysis/raw/main/Screenshot%202026-10-08%20003218.png)
