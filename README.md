@@ -24,3 +24,6 @@ This project provides a comprehensive analysis of customer behavior to uncover k
    * Revenue and Sales distribution by Category and Age Group.
    * Filters for Subscription Status, Gender, Category, and Shipping Type for customized data exploration.
 You can copy and paste this directly into your GitHub README file. Would you like to add anything else to the project documentation?
+4. Screenshots
+Shoe what the dashboard looks like.
+https://github.com/SherivJaswal/Customer-Behavior-Analysis/blob/main/Screenshot%202026-10-08%20003218.png
